@@ -1,4 +1,4 @@
-# React-Native---Infinite-Scroll-with-FlatList-and-use-of-WebView
+# React-Native Infinite Scroll
 
 ## Description 
 
